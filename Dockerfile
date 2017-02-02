@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER Sameer Saini (sameer.saini@outlook.com)
+MAINTAINER Miquel Ferrer (mikylegion@gmail.com)
 
 # install dependencies
 RUN apt-get update \
